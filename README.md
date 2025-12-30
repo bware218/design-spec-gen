@@ -14,7 +14,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-3. **Access interface:** Navigate to `http://localhost:8501`
+3. **Access interface:** Navigate to `http://localhost:8501` or 'https://design-spec-gen.streamlit.app'
 
 ## How It Works
 
